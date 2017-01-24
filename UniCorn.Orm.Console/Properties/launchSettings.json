@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "UniCorn.Orm.Console": {
+      "commandName": "Project",
+      "commandLineArgs": "-ConName NorthwindSqlite -Sql \"SELECT * FROM Products\""
+    }
+  }
+}
